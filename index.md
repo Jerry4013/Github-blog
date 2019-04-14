@@ -1,1 +1,0 @@
-[Link to another page](_posts/2019-04-14-firstblog.md).
