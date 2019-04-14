@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="/Github-blog">
+    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="486">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,6 +70,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2019-04-14-firstblog.md" />
+        <option value="$PROJECT_DIR$/templates.md" />
         <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
@@ -91,11 +92,6 @@
             <path>
               <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555273563462</updated>
       <workItem from="1555273573652" duration="41000" />
-      <workItem from="1555273645458" duration="6953000" />
+      <workItem from="1555273645458" duration="7631000" />
     </task>
     <task id="LOCAL-00001" summary="firstblog">
       <created>1555274241467</created>
@@ -215,11 +211,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555280492471</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Blogs">
+      <created>1555280768375</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555280768375</updated>
+    </task>
+    <task id="LOCAL-00013" summary="transport templates to a new file">
+      <created>1555281078191</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555281078191</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6994000" />
+    <option name="totallyTimeSpent" value="7672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
@@ -267,7 +277,9 @@
     <MESSAGE value="forloop posts" />
     <MESSAGE value="baseurl" />
     <MESSAGE value="/Github-blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="/Github-blog" />
+    <MESSAGE value="Blogs" />
+    <MESSAGE value="transport templates to a new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="transport templates to a new file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -301,11 +313,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1332">
+            <caret line="112" column="3" selection-start-line="112" selection-start-column="3" selection-end-line="112" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="486">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
           </first_editor>
           <second_editor />
         </state>

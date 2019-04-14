@@ -7,7 +7,7 @@ layout: default
 
   {% for post in site.posts %}
 
-* [{{ post.title }}  ]({{ post.url }})
+* [{{ post.title }}  ]({{ site.baseurl }}{% post_url {{ post.url }} %})
  
   {% endfor %}
 
