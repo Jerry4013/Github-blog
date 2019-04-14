@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
+    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="/Github-blog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
@@ -31,19 +31,10 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="297">
-                <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <first_editor relative-caret-position="486">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -145,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555273563462</updated>
       <workItem from="1555273573652" duration="41000" />
-      <workItem from="1555273645458" duration="6452000" />
+      <workItem from="1555273645458" duration="6953000" />
     </task>
     <task id="LOCAL-00001" summary="firstblog">
       <created>1555274241467</created>
@@ -203,11 +194,32 @@
       <option name="project" value="LOCAL" />
       <updated>1555278658098</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="baseurl">
+      <created>1555280257854</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555280257854</updated>
+    </task>
+    <task id="LOCAL-00010" summary="baseurl">
+      <created>1555280370156</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555280370156</updated>
+    </task>
+    <task id="LOCAL-00011" summary="/Github-blog">
+      <created>1555280492471</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555280492471</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6493000" />
+    <option name="totallyTimeSpent" value="6994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
@@ -253,20 +265,15 @@
     <MESSAGE value="loop all blogs" />
     <MESSAGE value="test" />
     <MESSAGE value="forloop posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="forloop posts" />
+    <MESSAGE value="baseurl" />
+    <MESSAGE value="/Github-blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="/Github-blog" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -287,11 +294,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <first_editor relative-caret-position="486">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
         </state>
