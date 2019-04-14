@@ -37,7 +37,7 @@ This file includes many useful default templates, but you may not want them disp
 *   Create a new file in your project and move all the code into it except `layout: default`
 *   If you want to display all your blogs by links in your index page, the following code might be helpful:
 
-```markdown
+```
   {% for post in site.posts %}
 
 * [{{ post.title }}  ]({{ site.baseurl }}{{ post.url }})
