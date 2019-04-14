@@ -6,6 +6,14 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [My First Blog](_posts/2019-04-14-firstblog.md).
 
+
+  {% for post in site.posts %}
+
+* [{{ post.title }}]({{ post.url }})
+ 
+  {% endfor %}
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
