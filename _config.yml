@@ -1,5 +1,4 @@
 theme: jekyll-theme-hacker
 title: Jerry4013's Blog
 description: Recording what I learned everyday
-github:
-  project_tagline: by Jerry Zhang
+author: Jerry Zhang
