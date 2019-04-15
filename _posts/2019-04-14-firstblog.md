@@ -37,7 +37,13 @@ This file includes many useful default templates, but you may not want them disp
 *   Create a new file in your project and move all the code into it except `layout: default`
 *   If you want to display all your blogs by links in your index page, the following code might be helpful:
 
-![loop_posts](/assets/post_loop.PNG)
+```text
+  {% for post in site.posts %}
+
+* [{{ post.title }}  ]({{ site.baseurl }}{{ post.url }})
+ 
+  {% endfor %}
+```
 
 *   Create a new folder named `_posts` in your project
 *   Create blogs like the name "2019-04-14-yourtitle.md". Follow this naming convention.
