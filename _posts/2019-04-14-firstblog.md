@@ -38,9 +38,9 @@ This file includes many useful default templates, but you may not want them disp
 *   If you want to display all your blogs by links in your index page, the following code might be helpful:
 
 ```markdown
-  `{% for post in site.posts %}`
-`* [{{ post.title }}]({{ site.baseurl }}{{ post.url }})`
-  `{% endfor %}`
+  {% for post in site.posts %}
+  * [{{ post.title }}]({{ site.baseurl }}{{ post.url }})`
+  {% endfor %}
 ```
 
 *   Create a new folder named `_posts` in your project
