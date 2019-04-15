@@ -7,7 +7,7 @@ layout: default
 
   {% for post in site.posts %}
 
-* [{{ post.title }}  {{post.date}}]({{ site.baseurl }}{{ post.url }})
+* [{{ post.title }}&nbsp; &nbsp; &nbsp; {{post.date | date_to_long_string}}]({{ site.baseurl }}{{ post.url }})
  
   {% endfor %}
 
