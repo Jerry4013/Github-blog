@@ -39,7 +39,7 @@ This file includes many useful default templates, but you may not want them disp
 
 ```markdown
   {% for post in site.posts %}
-  * [{{ post.title }}]({{ site.baseurl }}{{ post.url }})`
+  * [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
   {% endfor %}
 ```
 
