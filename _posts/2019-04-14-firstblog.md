@@ -17,7 +17,7 @@ I decided to start writing technical blogs from today because of two reasons:
 1. Recording what I learned everyday in case I need to check or review them later on.
 2. Provide useful information to others and save their time.
 
-Regard to Jekyll installation, I wasted a large amount of time on template usage. At first, I read the official
+Regarding to Jekyll installation, I wasted a large amount of time on template usage. At first, I read the official
 document of Jekyll and followed tutorial step by step. However, that tutorial is for someone who wants to 
 built a site from scratch! If you do not want to be an expert of Jekyll, you actually do not need to read that.
 
