@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-16-AJAX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ajax.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/another-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/another-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/SUPPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/SUPPORT.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/templates.html" afterDir="false" />
-    </list>
+    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,14 +195,7 @@
       <workItem from="1555414758297" duration="5956000" />
       <workItem from="1555423487572" duration="1623000" />
       <workItem from="1555430230873" duration="948000" />
-      <workItem from="1555443446186" duration="4009000" />
-    </task>
-    <task id="LOCAL-00007" summary="test">
-      <created>1555277635954</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1555277635954</updated>
+      <workItem from="1555443446186" duration="4045000" />
     </task>
     <task id="LOCAL-00008" summary="forloop posts">
       <created>1555278658098</created>
@@ -549,15 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555430351647</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="AJAX">
+      <created>1555448467096</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1555448467101</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43147000" />
+    <option name="totallyTimeSpent" value="43183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17751808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -593,7 +583,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="code span" />
     <MESSAGE value="give up. I can not display markdown inside markdown" />
     <MESSAGE value="copy from hacker" />
     <MESSAGE value="remove README" />
@@ -618,7 +607,8 @@
     <MESSAGE value="articles" />
     <MESSAGE value="fix grammar error in tip" />
     <MESSAGE value="google_analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="google_analytics" />
+    <MESSAGE value="AJAX" />
+    <option name="LAST_COMMIT_MESSAGE" value="AJAX" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
