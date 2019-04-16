@@ -3,9 +3,10 @@ title: Jerry's Blog
 description: Recording what I learned everyday
 author: Jerry Zhang
 github: [metadata]
-  repository_url: "https://github.com/Jerry4013/Github-blog.git"
+
 timezone: America/Toronto
 plugins:
+  - jekyll-github-metadata
   - jekyll-redirect-from
 #baseurl: "/Github-blog"
 

@@ -279,6 +279,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer (~> 3.0)
+  jekyll-github-metadata
   jekyll-redirect-from
   jekyll-theme-hacker!
   rubocop (~> 0.50)
