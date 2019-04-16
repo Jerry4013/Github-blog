@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-15-comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-15-comments.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="46" column="101" selection-start-line="46" selection-start-column="101" selection-end-line="46" selection-end-column="101" />
+            <state relative-caret-position="1242">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-comments.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="576">
-                <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <first_editor relative-caret-position="117">
+                <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-04-14-firstblog.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-15-comments.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-15-comments.md" />
       </list>
     </option>
   </component>
@@ -198,21 +198,7 @@
       <workItem from="1555370749838" duration="4749000" />
       <workItem from="1555378788566" duration="4629000" />
       <workItem from="1555414758297" duration="5956000" />
-      <workItem from="1555423487572" duration="968000" />
-    </task>
-    <task id="LOCAL-00003" summary="first blog">
-      <created>1555274798440</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1555274798440</updated>
-    </task>
-    <task id="LOCAL-00004" summary="loop all blogs">
-      <created>1555274967701</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1555274967701</updated>
+      <workItem from="1555423487572" duration="1527000" />
     </task>
     <task id="LOCAL-00005" summary="loop all blogs">
       <created>1555275569930</created>
@@ -543,14 +529,29 @@
       <option name="project" value="LOCAL" />
       <updated>1555420372287</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="add a github link in the footer">
+      <created>1555426543968</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555426543970</updated>
+    </task>
+    <task id="LOCAL-00053" summary="articles">
+      <created>1555426734363</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555426734363</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37535000" />
+    <option name="totallyTimeSpent" value="38094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17306623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -586,8 +587,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix code section" />
-    <MESSAGE value="add image" />
     <MESSAGE value="text" />
     <MESSAGE value="markdown in markdown" />
     <MESSAGE value="code span" />
@@ -611,7 +610,9 @@
     <MESSAGE value="second post" />
     <MESSAGE value="change github repository link to hard code" />
     <MESSAGE value="add #Tip of the Day" />
-    <option name="LAST_COMMIT_MESSAGE" value="add #Tip of the Day" />
+    <MESSAGE value="add a github link in the footer" />
+    <MESSAGE value="articles" />
+    <option name="LAST_COMMIT_MESSAGE" value="articles" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -707,16 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-comments.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="576">
-            <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -726,8 +717,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="46" column="101" selection-start-line="46" selection-start-column="101" selection-end-line="46" selection-end-column="101" />
+        <state relative-caret-position="1242">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-comments.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="117">
+            <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
