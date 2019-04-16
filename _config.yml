@@ -4,4 +4,6 @@ description: Recording what I learned everyday
 author: Jerry Zhang
 github: [metadata]
 timezone: America/Toronto
-
+plugins:
+  - jekyll-redirect-from
+#baseurl: "/Github-blog/"
