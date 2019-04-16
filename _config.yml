@@ -8,6 +8,8 @@ timezone: America/Toronto
 plugins:
   - jekyll-github-metadata
   - jekyll-redirect-from
+google_analytics: UA-134525874-1
+
 #baseurl: "/Github-blog"
 
 # Sidebar settings
