@@ -6,4 +6,4 @@ github: [metadata]
 timezone: America/Toronto
 plugins:
   - jekyll-redirect-from
-#baseurl: "/Github-blog/"
+#baseurl: "/Github-blog"

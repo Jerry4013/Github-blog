@@ -11,4 +11,3 @@ layout: default
  
   {% endfor %}
 
-
