@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IntellijIDEA Shortcuts"
-tags: IntellijIDEA Shortcuts   
+tags: IntellijIDEA   
 ---
 ### \#Tip of the Day: 磨刀不误砍柴工 A beard well lathered is half shaved. 
 
