@@ -92,6 +92,10 @@ Find next: Ctrl + L
 public static final int: psfi
 ...
 
+Prints a value to System.out: soutv
+
+Prints current class and method names to System.out: soutm
+
 *READ YOUR LIVE TEMPLATE!*
 
 ## Postfix
