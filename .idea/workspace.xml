@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/another-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/another-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/SUPPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/SUPPORT.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/templates.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +44,66 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-AJAX.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="405">
-                <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="58" />
+              <first_editor relative-caret-position="459">
+                <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2646">
+                <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-99">
+                <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
+                <folding>
+                  <element signature="e#40#41#0" expanded="true" />
+                  <element signature="e#89#90#0" expanded="true" />
+                  <element signature="e#62#63#0" expanded="true" />
+                  <element signature="e#96#97#0" expanded="true" />
+                  <element signature="e#354#355#0" expanded="true" />
+                  <element signature="e#384#385#0" expanded="true" />
+                  <element signature="e#456#457#0" expanded="true" />
+                  <element signature="e#494#495#0" expanded="true" />
+                  <element signature="e#526#527#0" expanded="true" />
+                  <element signature="e#555#556#0" expanded="true" />
+                  <element signature="e#616#617#0" expanded="true" />
+                  <element signature="e#652#653#0" expanded="true" />
+                  <element signature="e#702#703#0" expanded="true" />
+                  <element signature="e#735#736#0" expanded="true" />
+                  <element signature="e#815#816#0" expanded="true" />
+                  <element signature="e#859#860#0" expanded="true" />
+                  <element signature="e#934#935#0" expanded="true" />
+                  <element signature="e#982#983#0" expanded="true" />
+                  <element signature="e#1043#1044#0" expanded="true" />
+                  <element signature="e#1091#1092#0" expanded="true" />
+                  <element signature="e#1133#1134#0" expanded="true" />
+                  <element signature="e#1166#1167#0" expanded="true" />
+                  <element signature="e#1267#1268#0" expanded="true" />
+                  <element signature="e#1311#1312#0" expanded="true" />
+                  <element signature="e#518#519#0" expanded="true" />
+                  <element signature="e#546#547#0" expanded="true" />
+                  <element signature="e#600#601#0" expanded="true" />
+                  <element signature="e#628#629#0" expanded="true" />
+                  <element signature="e#669#670#0" expanded="true" />
+                  <element signature="e#695#696#0" expanded="true" />
+                  <element signature="e#736#737#0" expanded="true" />
+                  <element signature="e#762#763#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -52,50 +114,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="324">
+              <first_editor relative-caret-position="4482">
                 <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="648">
-                <caret line="117" selection-start-line="117" selection-end-line="117" />
-                <folding>
-                  <element signature="e#61#62#0" expanded="true" />
-                  <element signature="e#87#88#0" expanded="true" />
-                  <element signature="e#135#136#0" expanded="true" />
-                  <element signature="e#175#176#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="243">
-                <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="48" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-ConcurrentHashMap.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="486">
-                <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -131,7 +151,6 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-14-firstblog.md" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-04-15-comments.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-16-AJAX.md" />
@@ -141,6 +160,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-20-ConcurrentHashMap.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md" />
       </list>
     </option>
   </component>
@@ -158,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,24 +189,14 @@
             <path>
               <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +211,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
@@ -247,21 +260,11 @@
       <workItem from="1555679682545" duration="16377000" />
       <workItem from="1555700522854" duration="493000" />
       <workItem from="1555789215298" duration="692000" />
-      <workItem from="1555850726525" duration="6911000" />
-    </task>
-    <task id="LOCAL-00012" summary="Blogs">
-      <created>1555280768375</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1555280768375</updated>
-    </task>
-    <task id="LOCAL-00013" summary="transport templates to a new file">
-      <created>1555281078191</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1555281078191</updated>
+      <workItem from="1555850726525" duration="9819000" />
+      <workItem from="1555935850935" duration="7582000" />
+      <workItem from="1556019056585" duration="2124000" />
+      <workItem from="1556041213798" duration="5706000" />
+      <workItem from="1556114917408" duration="5923000" />
     </task>
     <task id="LOCAL-00014" summary="transport templates to a new file">
       <created>1555281433069</created>
@@ -592,11 +595,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555776696284</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="ConcurrentHashMap">
+      <created>1555860655114</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1555860655116</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Fix grammar errors">
+      <created>1555861025946</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1555861025946</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94403000" />
+    <option name="totallyTimeSpent" value="118646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,10 +625,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1079" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676725" weight="0.13689482" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676725" weight="0.20923762" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -628,7 +645,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" weight="0.25538793" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" visible="true" weight="0.25376344" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25538793" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -645,7 +662,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="baseurl: &quot;&quot;" />
     <MESSAGE value="remove baseurl: &quot;&quot;" />
     <MESSAGE value="set css back to hard code jekyll-theme-hacker" />
     <MESSAGE value="change _sass back to original" />
@@ -670,7 +686,8 @@
     <MESSAGE value="shortcuts" />
     <MESSAGE value="reflection" />
     <MESSAGE value="ConcurrentHashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConcurrentHashMap" />
+    <MESSAGE value="Fix grammar errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix grammar errors" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -699,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/rouge-base16-dark.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -723,16 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="135">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -761,13 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -801,11 +794,11 @@
     <entry file="file://$PROJECT_DIR$/assets/images/ConcurrentHashMap.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-AJAX.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="405">
-            <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="58" />
+          <first_editor relative-caret-position="243">
+            <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
@@ -821,21 +814,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2404" column="37" selection-start-line="2404" selection-start-column="37" selection-end-line="2404" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="243">
-            <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="48" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-AJAX.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="324">
-            <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+          <first_editor relative-caret-position="459">
+            <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
@@ -844,13 +868,61 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="648">
-            <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <first_editor relative-caret-position="2646">
+            <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="4482">
+            <caret line="166" column="4" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-99">
+            <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
             <folding>
-              <element signature="e#61#62#0" expanded="true" />
-              <element signature="e#87#88#0" expanded="true" />
-              <element signature="e#135#136#0" expanded="true" />
-              <element signature="e#175#176#0" expanded="true" />
+              <element signature="e#40#41#0" expanded="true" />
+              <element signature="e#89#90#0" expanded="true" />
+              <element signature="e#62#63#0" expanded="true" />
+              <element signature="e#96#97#0" expanded="true" />
+              <element signature="e#354#355#0" expanded="true" />
+              <element signature="e#384#385#0" expanded="true" />
+              <element signature="e#456#457#0" expanded="true" />
+              <element signature="e#494#495#0" expanded="true" />
+              <element signature="e#526#527#0" expanded="true" />
+              <element signature="e#555#556#0" expanded="true" />
+              <element signature="e#616#617#0" expanded="true" />
+              <element signature="e#652#653#0" expanded="true" />
+              <element signature="e#702#703#0" expanded="true" />
+              <element signature="e#735#736#0" expanded="true" />
+              <element signature="e#815#816#0" expanded="true" />
+              <element signature="e#859#860#0" expanded="true" />
+              <element signature="e#934#935#0" expanded="true" />
+              <element signature="e#982#983#0" expanded="true" />
+              <element signature="e#1043#1044#0" expanded="true" />
+              <element signature="e#1091#1092#0" expanded="true" />
+              <element signature="e#1133#1134#0" expanded="true" />
+              <element signature="e#1166#1167#0" expanded="true" />
+              <element signature="e#1267#1268#0" expanded="true" />
+              <element signature="e#1311#1312#0" expanded="true" />
+              <element signature="e#518#519#0" expanded="true" />
+              <element signature="e#546#547#0" expanded="true" />
+              <element signature="e#600#601#0" expanded="true" />
+              <element signature="e#628#629#0" expanded="true" />
+              <element signature="e#669#670#0" expanded="true" />
+              <element signature="e#695#696#0" expanded="true" />
+              <element signature="e#736#737#0" expanded="true" />
+              <element signature="e#762#763#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
@@ -860,9 +932,76 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
