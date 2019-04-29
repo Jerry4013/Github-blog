@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-28-Spring-6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/console.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,24 +38,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="3375">
-                <caret line="125" selection-start-line="125" selection-end-line="125" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-25-Spring-3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="4590">
-                <caret line="188" column="23" selection-start-line="188" selection-start-column="23" selection-end-line="188" selection-end-column="23" />
+              <first_editor relative-caret-position="2349">
+                <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+                <folding>
+                  <element signature="e#216#217#0" expanded="true" />
+                  <element signature="e#241#242#0" expanded="true" />
+                  <element signature="e#274#275#0" expanded="true" />
+                  <element signature="e#304#305#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -63,46 +60,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="9" selection-end-column="47" />
-                <folding>
-                  <element signature="e#122#123#0" expanded="true" />
-                  <element signature="e#160#161#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="11" selection-end-column="49" />
-                <folding>
-                  <element signature="e#38#39#0" expanded="true" />
-                  <element signature="e#97#98#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="810">
-                <caret line="73" selection-start-line="73" selection-end-line="73" />
-                <folding>
-                  <element signature="e#78#79#0" expanded="true" />
-                  <element signature="e#131#132#0" expanded="true" />
-                  <element signature="e#176#177#0" expanded="true" />
-                  <element signature="e#232#233#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="459">
+                <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="83" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,6 +114,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-28-Spring-5.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-28-Spring-6.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md" />
       </list>
     </option>
   </component>
@@ -172,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +159,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -221,11 +181,11 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,14 +235,9 @@
       <workItem from="1556192239038" duration="5447000" />
       <workItem from="1556202939925" duration="281000" />
       <workItem from="1556421423485" duration="1088000" />
-      <workItem from="1556456820307" duration="6450000" />
-    </task>
-    <task id="LOCAL-00020" summary="My real first blog!">
-      <created>1555285386977</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1555285386977</updated>
+      <workItem from="1556456820307" duration="7119000" />
+      <workItem from="1556540753225" duration="93000" />
+      <workItem from="1556540883285" duration="2343000" />
     </task>
     <task id="LOCAL-00021" summary="fix code section">
       <created>1555285573470</created>
@@ -620,11 +575,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556469520758</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Spring 6">
+      <created>1556473889908</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1556473889908</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139098000" />
+    <option name="totallyTimeSpent" value="142203000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,7 +601,7 @@
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.22148025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.22815804" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -673,7 +635,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comment gittalk" />
     <MESSAGE value="decodeURI" />
     <MESSAGE value="repo: Github-blog," />
     <MESSAGE value="test {{ site.github.repository_url }}" />
@@ -698,7 +659,8 @@
     <MESSAGE value="Spring3" />
     <MESSAGE value="Spring 4" />
     <MESSAGE value="Spring 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring 5" />
+    <MESSAGE value="Spring 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring 6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -876,40 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="3375">
-            <caret line="125" selection-start-line="125" selection-end-line="125" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="9" selection-end-column="47" />
-            <folding>
-              <element signature="e#122#123#0" expanded="true" />
-              <element signature="e#160#161#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-25-Spring-3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="4590">
-            <caret line="188" column="23" selection-start-line="188" selection-start-column="23" selection-end-line="188" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -930,15 +858,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-5.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-25-Spring-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="11" selection-end-column="49" />
-            <folding>
-              <element signature="e#38#39#0" expanded="true" />
-              <element signature="e#97#98#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="810">
+            <caret line="188" column="23" selection-start-line="188" selection-start-column="23" selection-end-line="188" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="810">
+            <caret line="125" selection-start-line="125" selection-end-line="125" />
           </first_editor>
           <second_editor />
         </state>
@@ -947,13 +881,43 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="810">
-            <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <first_editor relative-caret-position="-513">
+            <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="459">
+            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2349">
+            <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
             <folding>
-              <element signature="e#78#79#0" expanded="true" />
-              <element signature="e#131#132#0" expanded="true" />
-              <element signature="e#176#177#0" expanded="true" />
-              <element signature="e#232#233#0" expanded="true" />
+              <element signature="e#216#217#0" expanded="true" />
+              <element signature="e#241#242#0" expanded="true" />
+              <element signature="e#274#275#0" expanded="true" />
+              <element signature="e#304#305#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
