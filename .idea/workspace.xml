@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/console.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/hello.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/structure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,14 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2349">
-                <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-                <folding>
-                  <element signature="e#216#217#0" expanded="true" />
-                  <element signature="e#241#242#0" expanded="true" />
-                  <element signature="e#274#275#0" expanded="true" />
-                  <element signature="e#304#305#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,7 +150,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +157,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="/var/www/html/LuvleenCamera" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -178,7 +167,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -237,14 +226,9 @@
       <workItem from="1556421423485" duration="1088000" />
       <workItem from="1556456820307" duration="7119000" />
       <workItem from="1556540753225" duration="93000" />
-      <workItem from="1556540883285" duration="2343000" />
-    </task>
-    <task id="LOCAL-00021" summary="fix code section">
-      <created>1555285573470</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1555285573470</updated>
+      <workItem from="1556540883285" duration="3830000" />
+      <workItem from="1556549001798" duration="36000" />
+      <workItem from="1556549206966" duration="70000" />
     </task>
     <task id="LOCAL-00022" summary="fix code section">
       <created>1555285834045</created>
@@ -582,11 +566,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556473889908</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Spring 7">
+      <created>1556543251249</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1556543251250</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142203000" />
+    <option name="totallyTimeSpent" value="143796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,9 +590,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.22815804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.23483583" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -635,7 +625,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="decodeURI" />
     <MESSAGE value="repo: Github-blog," />
     <MESSAGE value="test {{ site.github.repository_url }}" />
     <MESSAGE value="repository_url: &quot;https://github.com/Jerry4013/Github-blog.git&quot;" />
@@ -660,7 +649,8 @@
     <MESSAGE value="Spring 4" />
     <MESSAGE value="Spring 5" />
     <MESSAGE value="Spring 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring 6" />
+    <MESSAGE value="Spring 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -898,27 +888,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="459">
-            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="83" />
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-27-Spring-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2349">
-            <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-            <folding>
-              <element signature="e#216#217#0" expanded="true" />
-              <element signature="e#241#242#0" expanded="true" />
-              <element signature="e#274#275#0" expanded="true" />
-              <element signature="e#304#305#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="459">
+            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="83" />
           </first_editor>
           <second_editor />
         </state>
