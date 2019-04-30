@@ -1,13 +1,141 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang='en-US'>
 <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-NCSNB68');</script>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NCSNB68');</script>
     <!-- End Google Tag Manager -->
+
+    <script>
+        var kickfireGTM = (window.kickfireGTM) ? window.kickfireGTM : {};
+        (function (custom_config) {
+            var config = custom_config || {};
+            kickfireGTM = {
+                session_timeout: config.session_timeout || "",
+                console_messages: config.console_messages || "false",
+                log_errors_to_GA: config.log_errors_to_GA || "false",
+                companies_only: config.companies_only || "true",
+                myapi_call: config.myapi_call || "false",
+                kickfire_api_key: config.kickfire_api_key || "",
+                init: function () {
+                    window.jQuery ? kickfireGTM.check_cookie() : kickfireGTM.show_console_messages("jQuery not loaded.")
+                },
+                check_cookie: function () {
+                    "" == kickfireGTM.get_cookie("kickfire_api_session_cookie") &&
+                    (kickfireGTM.set_cookie("kickfire_api_session_cookie", 1, kickfireGTM.session_timeout), kickfireGTM.ip_lookup())
+                },
+                ip_lookup: function () {
+                    var e = "";
+                    jQuery.ajax({
+                        url: "//api.kickfire.com/gip", success: function (i) {
+                            e = i.replace(/"/g, "")
+                        }, error: function (e, i, r) {
+                            kickfireGTM.show_console_messages("Error getting ip: " + r),
+                            "true" == kickfireGTM.log_errors_to_GA && kickfireGTM.dataLayerPush("kickfire-api-error", r.toString())
+                        }, complete: function () {
+                            kickfireGTM.kickfire_api_call(e)
+                        }
+                    })
+                },
+                kickfire_api_call: function (e) {
+                    var i = "//api.kickfire.com/v2/company:(all)?ip=" + e + "&key=b2988fcfc772051a";
+                    jQuery.getJSON(i, function (e) {
+                        if (e.hasOwnProperty("data")) try {
+                            if (0 == e.data[0].isISP || "false" == kickfireGTM.companies_only) {
+                                var i = {};
+                                if (Object.keys(e.data[0]).forEach(function (r, o) {
+                                    "" !== e.data[0][r] && (i[r] = e.data[0][r])
+                                }), 0 != e.data[0].isISP && "false" != kickfireGTM.companies_only ||
+                                "true" != kickfireGTM.myapi_call) kickfireGTM.dataLayerPush("kickfire-api-success", i);
+                                else {
+                                    var r = "//api.kickfire.com/my?key=b2988fcfc772051a" + "&keyField=" +
+                                        e.data[0].website;
+                                    jQuery.getJSON(r, function (e) {
+                                        0 == e.results ? i.watchlist = "Unassigned" : Object.keys(e).forEach(function (r, o) {
+                                            "" !== e[r] && (i[r] = e[r])
+                                        }), kickfireGTM.dataLayerPush("kickfire-api-success", i)
+                                    }).fail(function (e, i, r) {
+                                        kickfireGTM.show_console_messages(r), "true" == kickfireGTM.log_errors_to_GA &&
+                                        kickfireGTM.dataLayerPush("kickfire-api-error", "myapi: " + r)
+                                    })
+                                }
+                            }
+                        } catch (e) {
+                            kickfireGTM.show_console_messages(e), "true" == kickfireGTM.log_errors_to_GA &&
+                            kickfireGTM.dataLayerPush("kickfire-api-error", e)
+                        } else kickfireGTM.show_console_messages(JSON.stringify(e)),
+                        "true" == kickfireGTM.log_errors_to_GA &&
+                        kickfireGTM.dataLayerPush("kickfire-api-error", JSON.stringify(e))
+                    }).fail(function (e, i, r) {
+                        kickfireGTM.show_console_messages(r), "true" == kickfireGTM.log_errors_to_GA &&
+                            kickfireGTM.dataLayerPush("kickfire-api-error", r)
+                    })
+                },
+                get_cookie: function (e) {
+                    for (var i = e + "=", r = document.cookie.split(";"), o = "", c = 0; c < r.length; c++) {
+                        for (var k = r[c]; " " == k.charAt(0);) k = k.substring(1);
+                        if (-1 != k.indexOf(i)) {
+                            o = k.substring(i.length, k.length);
+                            break
+                        }
+                    }
+                    return o
+                },
+                set_cookie: function (e, i, r) {
+                    var o = new Date;
+                    o.setTime(o.getTime() + 6e4 * r);
+                    var c = "";
+                    "" !== r && (c = "expires=" + o.toUTCString()), document.cookie = e + "=" + i + "; " + c + "; path=/"
+                },
+                show_console_messages: function (e) {
+                    "true" == kickfireGTM.console_messages && console.log(e)
+                },
+                dataLayerPush: function (e, i) {
+                    window.dataLayer = window.dataLayer || [], "true" == kickfireGTM.console_messages &&
+                    console.log("event: " + e + " > " + i), "kickfire-api-success" === e ? dataLayer.push({
+                        event: e,
+                        "kickfire-api-return": i
+                    }) : "kickfire-api-error" === e && dataLayer.push({event: e, "kickfire-api-event-message": i})
+                }
+            }, kickfireGTM.init();
+        })({
+            'session_timeout': '30',
+            'console_messages': 'true',
+            'log_errors_to_GA': 'true',
+            'companies_only': 'true',
+            'myapi_call': 'false',
+            'kickfire_api_key': 'b2988fcfc772051a'
+        });
+        /*
+        config settings
+        ===============
+            1. session_timeout
+                Leave blank to use a session cookie or enter the number of minutes
+            2. console_messages
+                true or false to log console messages
+            3. log_errors_to_GA
+                true or false to send api errors to GA.
+                Example: KickFire API>error>URL Not Authorized
+            4. companies_only
+                true or false to only send company data to GA.
+            5. myapi_call
+                true or false for MyAPI watchlist call that will return your defined custom fields
+            6. kickfire_api_key
+                Use GTM constant "KickFire API Key" for your api key
+        */
+    </script>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,8 +160,10 @@
 
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCSNB68"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCSNB68"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 <!-- End Google Tag Manager (noscript) -->
 <header>
     <div class="container">
@@ -233,10 +363,17 @@
 </footer>
 
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-134525874-1', 'auto');
     ga('send', 'pageview');
 </script>

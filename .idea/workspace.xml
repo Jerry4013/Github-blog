@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mysqlservice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/04/14/firstblog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/another-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/another-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/SUPPORT.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/SUPPORT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/templates.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="189">
+              <first_editor relative-caret-position="594">
                 <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="66" />
               </first_editor>
               <second_editor />
@@ -54,7 +56,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="324">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-989">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,11 +76,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1701">
-                <caret line="63" column="56" lean-forward="true" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+              <first_editor relative-caret-position="658">
+                <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,6 +136,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md" />
       </list>
     </option>
   </component>
@@ -248,21 +263,7 @@
       <workItem from="1556549001798" duration="36000" />
       <workItem from="1556549206966" duration="70000" />
       <workItem from="1556558006840" duration="6914000" />
-      <workItem from="1556636685697" duration="3896000" />
-    </task>
-    <task id="LOCAL-00024" summary="fix code section">
-      <created>1555286477929</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1555286477929</updated>
-    </task>
-    <task id="LOCAL-00025" summary="fix code section">
-      <created>1555286864534</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1555286864534</updated>
+      <workItem from="1556636685697" duration="12931000" />
     </task>
     <task id="LOCAL-00026" summary="add image">
       <created>1555286975689</created>
@@ -593,11 +594,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556558340595</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="MySql1">
+      <created>1556643434540</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1556643434544</updated>
+    </task>
+    <task id="LOCAL-00074" summary="MySql1">
+      <created>1556643679024</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1556643679024</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154606000" />
+    <option name="totallyTimeSpent" value="163641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -629,7 +644,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" weight="0.22198276" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" visible="true" weight="0.22198276" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25538793" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -646,7 +661,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="repository_url: &quot;https://github.com/Jerry4013/Github-blog.git&quot;" />
     <MESSAGE value="add plugin: jekyll-github-metadata" />
     <MESSAGE value="second post" />
     <MESSAGE value="change github repository link to hard code" />
@@ -671,7 +685,8 @@
     <MESSAGE value="Spring 7" />
     <MESSAGE value="kickfire" />
     <MESSAGE value="jQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="jQuery" />
+    <MESSAGE value="MySql1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MySql1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -913,7 +928,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="324">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -922,7 +937,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="189">
+          <first_editor relative-caret-position="594">
             <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="66" />
           </first_editor>
           <second_editor />
@@ -932,8 +947,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1701">
-            <caret line="63" column="56" lean-forward="true" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+          <first_editor relative-caret-position="-989">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="658">
+            <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="168" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
