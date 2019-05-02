@@ -3,7 +3,7 @@ title: Jerry's Blog
 description: Recording what I learned everyday
 author: Jerry Zhang
 github: [metadata]
-
+paginate: 5
 timezone: America/Toronto
 plugins:
   - jekyll-github-metadata
