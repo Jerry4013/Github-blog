@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-05-PostgreSQL-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-JSP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="810">
+              <first_editor relative-caret-position="2592">
                 <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="61" />
               </first_editor>
               <second_editor />
@@ -77,8 +74,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="7" selection-end-column="10" />
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,8 +86,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="524">
+                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -288,14 +285,8 @@
       <workItem from="1556916382921" duration="730000" />
       <workItem from="1556985547404" duration="7373000" />
       <workItem from="1557082684944" duration="1022000" />
-      <workItem from="1557234079210" duration="13596000" />
-    </task>
-    <task id="LOCAL-00032" summary="remove README">
-      <created>1555357145442</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1555357145442</updated>
+      <workItem from="1557234079210" duration="13633000" />
+      <workItem from="1557315322678" duration="2777000" />
     </task>
     <task id="LOCAL-00033" summary="add home, footer and fixed markdown code display problem">
       <created>1555360452653</created>
@@ -633,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557238575788</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="PostgreSQL">
+      <created>1557264214218</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1557264214218</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203745000" />
+    <option name="totallyTimeSpent" value="206559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -652,7 +650,7 @@
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.19699499" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.19977741" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -686,7 +684,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix grammar error in tip" />
     <MESSAGE value="google_analytics" />
     <MESSAGE value="AJAX" />
     <MESSAGE value="fix image problem" />
@@ -711,7 +708,8 @@
     <MESSAGE value="MVC" />
     <MESSAGE value="Spring 9" />
     <MESSAGE value="mail server" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail server" />
+    <MESSAGE value="PostgreSQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="PostgreSQL" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -1008,16 +1006,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-JSP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="810">
-            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/2019/05/05/mailserver.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1050,6 +1038,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-JSP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2592">
+            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-mailserver.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1073,8 +1071,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="7" selection-end-column="10" />
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -1083,8 +1081,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <first_editor relative-caret-position="524">
+            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           </first_editor>
           <second_editor />
         </state>
