@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,12 +82,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="524">
-                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <first_editor>
+                <caret selection-end-line="7" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1296">
+                <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,6 +166,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-05-PostgreSQL-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md" />
       </list>
     </option>
   </component>
@@ -192,8 +205,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,14 +299,8 @@
       <workItem from="1556985547404" duration="7373000" />
       <workItem from="1557082684944" duration="1022000" />
       <workItem from="1557234079210" duration="13633000" />
-      <workItem from="1557315322678" duration="2777000" />
-    </task>
-    <task id="LOCAL-00033" summary="add home, footer and fixed markdown code display problem">
-      <created>1555360452653</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1555360452653</updated>
+      <workItem from="1557315322678" duration="4460000" />
+      <workItem from="1557433146703" duration="1533000" />
     </task>
     <task id="LOCAL-00034" summary="baseurl: &quot;&quot;">
       <created>1555360979960</created>
@@ -631,11 +638,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557264214218</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Java Mail">
+      <created>1557321889249</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1557321889251</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206559000" />
+    <option name="totallyTimeSpent" value="209775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,7 +664,7 @@
     <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.19977741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.20255983" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -667,7 +681,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" visible="true" weight="0.19181034" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" visible="true" weight="0.26185346" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25538793" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -684,7 +698,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="google_analytics" />
     <MESSAGE value="AJAX" />
     <MESSAGE value="fix image problem" />
     <MESSAGE value="shortcuts" />
@@ -709,7 +722,8 @@
     <MESSAGE value="Spring 9" />
     <MESSAGE value="mail server" />
     <MESSAGE value="PostgreSQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="PostgreSQL" />
+    <MESSAGE value="Java Mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Mail" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
@@ -1081,8 +1095,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="524">
-            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1296">
+            <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
           </first_editor>
           <second_editor />
         </state>
