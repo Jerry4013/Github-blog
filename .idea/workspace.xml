@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/_posts/2019-50-22-Dart(2).md" afterDir="false" />
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,7 +36,60 @@
     <favorites_list name="Github-blog" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-20-jQuery-AJAX.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-21-Dart(1).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-50-22-Dart(2).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="351">
+                <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-AJAX.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="405">
+                <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="58" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +145,21 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2019-05-03-Spring-8.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-04-Spring-9.md" />
+        <option value="$PROJECT_DIR$/_site/2019/05/05/mailserver.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-05-mailserver.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-05-PostgreSQL-1.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-11-User-Register.adoc" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-11-User-Register.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-12-products-module.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-14-products-module.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-20-AJAX-2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-20-jQuery-AJAX.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-21-dart(1).md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-21-Dart(1).md" />
+        <option value="$PROJECT_DIR$/_posts/2019-50-22-Dart(2).md" />
       </list>
     </option>
   </component>
@@ -123,6 +195,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,17 +213,17 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/201905" />
       <recent name="$PROJECT_DIR$/assets/images/20190503" />
       <recent name="$PROJECT_DIR$/assets/images/20190502" />
       <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,6 +285,7 @@
       <workItem from="1556885735557" duration="457000" />
       <workItem from="1556887206074" duration="3305000" />
       <workItem from="1556916382921" duration="730000" />
+<<<<<<< HEAD
       <workItem from="1556985547404" duration="6692000" />
       <workItem from="1557084976765" duration="24000" />
     </task>
@@ -284,6 +358,25 @@
       <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
       <updated>1555361864813</updated>
+=======
+      <workItem from="1556985547404" duration="7373000" />
+      <workItem from="1557082684944" duration="1022000" />
+      <workItem from="1557234079210" duration="13633000" />
+      <workItem from="1557315322678" duration="4460000" />
+      <workItem from="1557433146703" duration="1598000" />
+      <workItem from="1557488899246" duration="1530000" />
+      <workItem from="1557526380400" duration="6000" />
+      <workItem from="1557584028628" duration="156000" />
+      <workItem from="1557590156356" duration="4156000" />
+      <workItem from="1557671352873" duration="6751000" />
+      <workItem from="1557747414548" duration="1481000" />
+      <workItem from="1557833914561" duration="5716000" />
+      <workItem from="1557869488492" duration="195000" />
+      <workItem from="1558378020080" duration="189000" />
+      <workItem from="1558378309129" duration="2571000" />
+      <workItem from="1558437778110" duration="10393000" />
+      <workItem from="1558524424761" duration="10179000" />
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
     </task>
     <task id="LOCAL-00040" summary="change home link to baseurl">
       <created>1555374850793</created>
@@ -558,11 +651,85 @@
       <option name="project" value="LOCAL" />
       <updated>1556893461732</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Spring 9">
+      <created>1557004793221</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1557004793224</updated>
+    </task>
+    <task id="LOCAL-00080" summary="mail server">
+      <created>1557238575752</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1557238575788</updated>
+    </task>
+    <task id="LOCAL-00081" summary="PostgreSQL">
+      <created>1557264214218</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1557264214218</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Java Mail">
+      <created>1557321889249</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1557321889251</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Java Mail with google account.">
+      <created>1557434707079</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1557434707086</updated>
+    </task>
+    <task id="LOCAL-00084" summary="OTP">
+      <created>1557584096923</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1557584096926</updated>
+    </task>
+    <task id="LOCAL-00085" summary="OTP">
+      <created>1557694200400</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1557694200412</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Tips">
+      <created>1557869592365</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1557869592369</updated>
+    </task>
+    <task id="LOCAL-00087" summary="jQuery Ajax">
+      <created>1558441282873</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1558441282876</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Dart 1">
+      <created>1558471213863</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1558471213864</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="188632000" />
+=======
+    <option name="totallyTimeSpent" value="253163000" />
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,9 +741,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.2019334" />
+=======
+    <frame x="67" y="25" width="1853" height="1077" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.18976071" />
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,7 +758,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5032328" side_tool="true" weight="0.18809126" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -593,8 +767,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" visible="true" weight="0.19132149" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25443786" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" weight="0.26185346" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25538793" />
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -610,15 +789,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add a github link in the footer" />
-    <MESSAGE value="articles" />
-    <MESSAGE value="fix grammar error in tip" />
-    <MESSAGE value="google_analytics" />
-    <MESSAGE value="AJAX" />
-    <MESSAGE value="fix image problem" />
-    <MESSAGE value="shortcuts" />
-    <MESSAGE value="reflection" />
-    <MESSAGE value="ConcurrentHashMap" />
     <MESSAGE value="Fix grammar errors" />
     <MESSAGE value="Spring 2" />
     <MESSAGE value="fix image error" />
@@ -635,32 +805,18 @@
     <MESSAGE value="JSP intellij" />
     <MESSAGE value="Draggable" />
     <MESSAGE value="MVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="MVC" />
+    <MESSAGE value="Spring 9" />
+    <MESSAGE value="mail server" />
+    <MESSAGE value="PostgreSQL" />
+    <MESSAGE value="Java Mail" />
+    <MESSAGE value="Java Mail with google account." />
+    <MESSAGE value="OTP" />
+    <MESSAGE value="Tips" />
+    <MESSAGE value="jQuery Ajax" />
+    <MESSAGE value="Dart 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dart 1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/cibuild">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.github/ISSUE_TEMPLATE/comment.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/rouge-base16-dark.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_default_colors.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -699,6 +855,7 @@
     <entry file="file://$PROJECT_DIR$/assets/images/ConcurrentHashMap.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -709,6 +866,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> ad3d887a90f67d53bafb5e12ed300eaf39c734a4
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
@@ -769,16 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -804,26 +953,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="486">
             <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="324">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="918">
-            <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
@@ -878,20 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -912,21 +1027,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-JSP.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2592">
-            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="61" />
+          <first_editor relative-caret-position="378">
+            <caret line="59" selection-start-line="59" selection-end-line="59" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-03-Spring-8.md">
+    <entry file="file://$PROJECT_DIR$/_site/2019/05/05/mailserver.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="214" column="47" lean-forward="true" selection-start-line="214" selection-start-column="47" selection-end-line="214" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4698" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="506">
-            <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="55" />
+          <first_editor relative-caret-position="324">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -935,20 +1069,173 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-04-Spring-9.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="452">
-            <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-            <folding>
-              <element signature="e#140#141#0" expanded="true" />
-              <element signature="e#205#206#0" expanded="true" />
-              <element signature="e#455#456#0" expanded="true" />
-              <element signature="e#482#483#0" expanded="true" />
-              <element signature="e#521#522#0" expanded="true" />
-              <element signature="e#553#554#0" expanded="true" />
-              <element signature="e#585#586#0" expanded="true" />
-              <element signature="e#614#615#0" expanded="true" />
-              <element signature="e#657#658#0" expanded="true" />
-              <element signature="e#693#694#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="486">
+            <caret line="82" selection-start-line="82" selection-end-line="82" selection-end-column="71" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-mailserver.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-PostgreSQL-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-PostgreSQL-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-JavaMail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-JSP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="810">
+            <caret line="96" selection-start-line="96" selection-end-line="96" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-OTP-message.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="12" lean-forward="true" selection-end-line="7" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="918">
+            <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-03-Spring-8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="999">
+            <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-09-JavaMail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="486">
+            <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-11-User-Register.adoc" />
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-14-products-module.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="27">
+            <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-12-User-Register.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="432">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-20-jQuery-AJAX.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-AJAX.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-21-Dart(1).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-50-22-Dart(2).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="351">
+            <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
