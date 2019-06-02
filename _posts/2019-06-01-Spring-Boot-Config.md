@@ -1,3 +1,4 @@
+---
 title:  "Spring boot configuration"
 tags: Spring boot, configuration, maven
 ---
