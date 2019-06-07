@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-04-git-submodule.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +36,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-Spring-Controller.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="864">
-                <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <first_editor>
+                <caret selection-end-line="7" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,11 +48,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-03-Spring-boot-JPA.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-3528">
-                <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <first_editor>
+                <caret selection-end-line="7" selection-end-column="12" />
+                <folding>
+                  <element signature="e#242#243#0" expanded="true" />
+                  <element signature="e#269#270#0" expanded="true" />
+                  <element signature="e#309#310#0" expanded="true" />
+                  <element signature="e#341#342#0" expanded="true" />
+                  <element signature="e#381#382#0" expanded="true" />
+                  <element signature="e#408#409#0" expanded="true" />
+                  <element signature="e#437#438#0" expanded="true" />
+                  <element signature="e#463#464#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -61,17 +70,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2736">
-                <caret line="114" column="49" selection-start-line="114" selection-start-column="49" selection-end-line="114" selection-end-column="49" />
-                <folding>
-                  <element signature="e#957#958#0" expanded="true" />
-                  <element signature="e#1000#1001#0" expanded="true" />
-                  <element signature="e#1112#1113#0" expanded="true" />
-                  <element signature="e#1173#1174#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="853">
+                <caret line="60" selection-start-line="60" selection-end-line="60" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,9 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-04-19-IntellijIDEA-shortcuts.adoc" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-19-IntellijIDEA-shortcuts.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-20-ConcurrentHashMap.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md" />
@@ -151,6 +151,9 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-05-Spring-AOP.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-uniform-exception.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md" />
       </list>
     </option>
   </component>
@@ -168,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,8 +189,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,14 +305,9 @@
       <workItem from="1559563531633" duration="8056000" />
       <workItem from="1559756586392" duration="5131000" />
       <workItem from="1559779539558" duration="90000" />
-      <workItem from="1559823209464" duration="3300000" />
-    </task>
-    <task id="LOCAL-00046" summary="repository_url: &quot;https://github.com/Jerry4013/Github-blog.git&quot;">
-      <created>1555415440661</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1555415440662</updated>
+      <workItem from="1559823209464" duration="4382000" />
+      <workItem from="1559858804398" duration="2572000" />
+      <workItem from="1559907060798" duration="5630000" />
     </task>
     <task id="LOCAL-00047" summary="repository_url: &quot;https://github.com/Jerry4013/Github-blog.git&quot;">
       <created>1555415493199</created>
@@ -647,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559502114839</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Spring validation and AOP beginning">
+      <created>1559831088465</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1559831088466</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294091000" />
+    <option name="totallyTimeSpent" value="303375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,7 +671,7 @@
     <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.17024705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.18421052" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -703,7 +708,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Spring 5" />
     <MESSAGE value="Spring 6" />
     <MESSAGE value="Spring 7" />
     <MESSAGE value="kickfire" />
@@ -728,15 +732,10 @@
     <MESSAGE value="Maven" />
     <MESSAGE value="configuration file" />
     <MESSAGE value="Spring boot, controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring boot, controller" />
+    <MESSAGE value="Spring validation and AOP beginning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring validation and AOP beginning" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/bullet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/blacktocat.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/bkg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1138,26 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-Spring-Controller.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="864">
-            <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-03-Spring-boot-JPA.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1168,17 +1147,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-Spring-Controller.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="864">
+            <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="12" />
+            <folding>
+              <element signature="e#242#243#0" expanded="true" />
+              <element signature="e#269#270#0" expanded="true" />
+              <element signature="e#309#310#0" expanded="true" />
+              <element signature="e#341#342#0" expanded="true" />
+              <element signature="e#381#382#0" expanded="true" />
+              <element signature="e#408#409#0" expanded="true" />
+              <element signature="e#437#438#0" expanded="true" />
+              <element signature="e#463#464#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2736">
-            <caret line="114" column="49" selection-start-line="114" selection-start-column="49" selection-end-line="114" selection-end-column="49" />
-            <folding>
-              <element signature="e#957#958#0" expanded="true" />
-              <element signature="e#1000#1001#0" expanded="true" />
-              <element signature="e#1112#1113#0" expanded="true" />
-              <element signature="e#1173#1174#0" expanded="true" />
-            </folding>
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1152">
+            <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="853">
+            <caret line="60" selection-start-line="60" selection-end-line="60" />
           </first_editor>
           <second_editor />
         </state>
