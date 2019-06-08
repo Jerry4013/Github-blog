@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-07-Spring-Data.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,21 +47,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="7" selection-end-column="12" />
-                <folding>
-                  <element signature="e#242#243#0" expanded="true" />
-                  <element signature="e#269#270#0" expanded="true" />
-                  <element signature="e#309#310#0" expanded="true" />
-                  <element signature="e#341#342#0" expanded="true" />
-                  <element signature="e#381#382#0" expanded="true" />
-                  <element signature="e#408#409#0" expanded="true" />
-                  <element signature="e#437#438#0" expanded="true" />
-                  <element signature="e#463#464#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="264">
+                <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,11 +59,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Data.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="853">
-                <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <first_editor relative-caret-position="1189">
+                <caret line="121" column="56" lean-forward="true" selection-start-line="121" selection-start-column="56" selection-end-line="121" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
@@ -103,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-04-20-ConcurrentHashMap.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-22-Spring-2.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-21-Spring-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-24-Spring-3.md" />
@@ -154,12 +141,14 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-uniform-exception.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-Data-JPA.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-Data.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-8" />
+    <option name="x" value="1915" />
+    <option name="y" value="-1210" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
@@ -172,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +177,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,14 +296,8 @@
       <workItem from="1559779539558" duration="90000" />
       <workItem from="1559823209464" duration="4382000" />
       <workItem from="1559858804398" duration="2572000" />
-      <workItem from="1559907060798" duration="5630000" />
-    </task>
-    <task id="LOCAL-00047" summary="repository_url: &quot;https://github.com/Jerry4013/Github-blog.git&quot;">
-      <created>1555415493199</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1555415493199</updated>
+      <workItem from="1559907060798" duration="11108000" />
+      <workItem from="1559958495642" duration="3488000" />
     </task>
     <task id="LOCAL-00048" summary="add plugin: jekyll-github-metadata">
       <created>1555416522936</created>
@@ -652,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559831088466</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Spring uniform exception and unit tests">
+      <created>1559915680549</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1559915680550</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="303375000" />
+    <option name="totallyTimeSpent" value="312341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,10 +658,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="1915" y="-1210" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.18421052" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.14876477" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -708,7 +698,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Spring 6" />
     <MESSAGE value="Spring 7" />
     <MESSAGE value="kickfire" />
     <MESSAGE value="jQuery" />
@@ -733,12 +722,10 @@
     <MESSAGE value="configuration file" />
     <MESSAGE value="Spring boot, controller" />
     <MESSAGE value="Spring validation and AOP beginning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring validation and AOP beginning" />
+    <MESSAGE value="Spring uniform exception and unit tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring uniform exception and unit tests" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/bkg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -964,7 +951,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="324">
@@ -973,6 +959,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1157,21 +1144,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1152">
+            <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="7" selection-end-column="12" />
-            <folding>
-              <element signature="e#242#243#0" expanded="true" />
-              <element signature="e#269#270#0" expanded="true" />
-              <element signature="e#309#310#0" expanded="true" />
-              <element signature="e#341#342#0" expanded="true" />
-              <element signature="e#381#382#0" expanded="true" />
-              <element signature="e#408#409#0" expanded="true" />
-              <element signature="e#437#438#0" expanded="true" />
-              <element signature="e#463#464#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="168">
+            <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -1187,21 +1174,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1152">
-            <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <first_editor relative-caret-position="264">
+            <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Unit-Test.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-Spring-Data.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="853">
-            <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <first_editor relative-caret-position="1189">
+            <caret line="121" column="56" lean-forward="true" selection-start-line="121" selection-start-column="56" selection-end-line="121" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>

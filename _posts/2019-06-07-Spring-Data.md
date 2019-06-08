@@ -1,0 +1,175 @@
+---
+title:  "Spring Data JDBC and JDBCTemplate"
+tags: Spring Data, JDBC
+---
+
+### Day 3: Spring Data - JDBC
+
+<br /><br />
+
+## Create a new maven project with Intellij IDEA
+
+* File -> New -> Project -> Maven
+* Check the "Create from archetype"
+* find the org.apache.maven.archetypes:maven-archetype-quickstart
+
+## Add mysql and junit dependencies
+
+```xml
+<dependencies>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.16</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+</dependencies>
+```
+
+## Create database
+
+Login mysql in cmd with `mysql -uroot -p`. Then, create a database called spring_data.
+```
+create database spring_data;
+```
+
+Changed the database.
+```
+use spring_data;
+```
+
+Create a table named student.
+```
+create table student(
+id int not null auto_increment,
+name varchar(20) not null,
+age int not null,
+primary key(id)
+);
+```
+
+To display the detail of this table 
+```
+desc student;
+```
+
+Insert some data in it.
+```
+insert into student (name, age) values ("aaa", 20);
+insert into student (name, age) values ("bbb", 21);
+insert into student (name, age) values ("ccc", 22);
+```
+
+To check the data inserted: `select * from student`;
+
+## JDBCUtil
+
+In this class/method, we do two jobs.
+
+1) Get connection
+2) release resources
+
+```java
+public class JDBCUtil {
+
+    public static Connection getConnection() throws ClassNotFoundException, SQLException {
+        
+        //This is hard code, should write in a configuration file.
+        String url = "jdbc:mysql://127.0.0.1:3306/spring_data";
+        String user = "root";
+        String password = "root";
+        String driverClass = "com.mysql.cj.jdbc.Driver";
+
+        Class.forName(driverClass);
+        Connection connection = DriverManager.getConnection(url, user, password);
+        return connection;
+    }
+}
+
+```
+
+* Notice that we wrote all the user name and password in the code. We should have put them in a configuration file.
+Therefore, create a property file "db.properties".
+
+```properties
+jdbc.url = jdbc:mysql://127.0.0.1:3306/spring_data
+jdbc.user = root
+jdbc.password = root
+jdbc.driverClass = com.mysql.cj.jdbc.Driver
+```
+
+Then change our code like this:
+
+```java
+public class JDBCUtil {
+
+    public static Connection getConnection() throws ClassNotFoundException, SQLException, IOException {
+//        String url = "jdbc:mysql://127.0.0.1:3306/spring_data";
+//        String user = "root";
+//        String password = "root";
+//        String driverClass = "com.mysql.cj.jdbc.Driver";
+
+        InputStream inputStream = JDBCUtil.class.getClassLoader().getResourceAsStream("db.properties");
+        Properties properties = new Properties();
+        properties.load(inputStream);
+
+        String url = properties.getProperty("jdbc.url");
+        String user = properties.getProperty("jdbc.user");
+        String password = properties.getProperty("jdbc.password");
+        String driverClass = properties.getProperty("jdbc.driverClass");
+
+        Class.forName(driverClass);
+        Connection connection = DriverManager.getConnection(url, user, password);
+        return connection;
+    }
+}
+```
+
+Write a release method:
+
+```java
+public static void release(ResultSet resultSet, Statement statement, Connection connection){
+        if (resultSet != null) {
+            try {
+                resultSet.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+
+        if (statement != null) {
+            try {
+                statement.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+
+        if (connection != null) {
+            try {
+                connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+
+    }
+```
+
+
+
+
+
+
+
+
+
+
+
+
