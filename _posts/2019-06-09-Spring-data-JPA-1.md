@@ -1,5 +1,5 @@
 ---
-title:  "Spring data JPA"
+title:  "Spring data JPA(1)"
 tags: Spring, Spring data, JPA
 ---
 
