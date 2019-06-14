@@ -3,7 +3,7 @@ title:  "Spring boot email(1)"
 tags: Spring boot, email
 ---
 
-### Day 6: 
+### Day 7: 
 
 ## Email protocols
 
@@ -27,6 +27,7 @@ We need to add two annotations in the unit test class
 ## Spring-boot-starter-mail
 
 * Maven dependency
+
 ```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -35,6 +36,7 @@ We need to add two annotations in the unit test class
 ```
 
 * property file
+
 ```properties
 spring.mail.host=smtp.gmail.com
 spring.mail.username=<your email username>
@@ -47,6 +49,7 @@ spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFa
 ```
 
 ## Sending a simple text email
+
 ```java
 @Service
 public class MailService {
