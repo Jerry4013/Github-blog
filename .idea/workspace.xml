@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="day 7">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md" afterDir="false" />
+    <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-10-SpringBoot-Email-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +38,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="661">
-                <caret line="142" column="1" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+              <first_editor relative-caret-position="3456">
+                <caret line="144" selection-start-line="7" selection-end-line="144" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-1008">
+                <caret selection-end-line="5" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,14 +59,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="853">
-                <caret line="116" column="8" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
-                <folding>
-                  <element signature="imports" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="-1187">
+                <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2019-04-30-MySql-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-30-MySql-2.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-30-JSP.md" />
@@ -135,6 +142,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-10-SpringBoot-Email-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" />
       </list>
     </option>
   </component>
@@ -152,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +176,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,14 +305,10 @@
       <workItem from="1560338994843" duration="2256000" />
       <workItem from="1560425506112" duration="597000" />
       <workItem from="1560438508473" duration="4762000" />
-      <workItem from="1560471168331" duration="2683000" />
-    </task>
-    <task id="LOCAL-00053" summary="articles">
-      <created>1555426734363</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1555426734363</updated>
+      <workItem from="1560471168331" duration="3321000" />
+      <workItem from="1560476659444" duration="819000" />
+      <workItem from="1560557429186" duration="770000" />
+      <workItem from="1560559250385" duration="3862000" />
     </task>
     <task id="LOCAL-00054" summary="fix grammar error in tip">
       <created>1555426886508</created>
@@ -642,11 +646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560296217430</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="spring boot email 2">
+      <created>1560475598700</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1560475598701</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360670000" />
+    <option name="totallyTimeSpent" value="366759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +672,7 @@
     <frame x="1915" y="-1210" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.13050483" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.13533835" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -698,7 +709,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JSP intellij" />
     <MESSAGE value="Draggable" />
     <MESSAGE value="MVC" />
     <MESSAGE value="Spring 9" />
@@ -723,19 +733,10 @@
     <MESSAGE value="Spring data JPA, a simple example" />
     <MESSAGE value="Spring data JPA" />
     <MESSAGE value="Spring boot email 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring boot email 1" />
+    <MESSAGE value="spring boot email 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot email 2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-ConcurrentHashMap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="486">
-            <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-Spring-6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -891,6 +892,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="324">
@@ -899,7 +901,6 @@
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1094,16 +1095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-10-Spring-data-JPA-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="5" column="11" selection-end-line="5" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-09-Spring-data-JPA-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1174,11 +1165,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-10-Spring-data-JPA-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="11" selection-end-line="5" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="661">
-            <caret line="142" column="1" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+          <first_editor relative-caret-position="3456">
+            <caret line="144" selection-start-line="7" selection-end-line="144" />
           </first_editor>
           <second_editor />
         </state>
@@ -1187,11 +1188,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="853">
-            <caret line="116" column="8" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="-1008">
+            <caret selection-end-line="5" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1187">
+            <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
