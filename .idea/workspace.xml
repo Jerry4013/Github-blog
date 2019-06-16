@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="4224">
-                <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+              <first_editor relative-caret-position="286">
+                <caret line="28" column="54" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,6 +59,7 @@
     <findStrings>
       <find>Ctrl</find>
       <find>api_key</find>
+      <find>{</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -288,14 +289,7 @@
       <workItem from="1560563608848" duration="509000" />
       <workItem from="1560600881536" duration="15195000" />
       <workItem from="1560686395977" duration="15849000" />
-      <workItem from="1560718980318" duration="265000" />
-    </task>
-    <task id="LOCAL-00058" summary="shortcuts">
-      <created>1555693976049</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1555693976057</updated>
+      <workItem from="1560718980318" duration="551000" />
     </task>
     <task id="LOCAL-00059" summary="reflection">
       <created>1555772349768</created>
@@ -633,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560706388448</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="\{\{">
+      <created>1560719397853</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1560719397854</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398625000" />
+    <option name="totallyTimeSpent" value="398911000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +690,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PostgreSQL" />
     <MESSAGE value="Java Mail" />
     <MESSAGE value="Java Mail with google account." />
     <MESSAGE value="OTP" />
@@ -714,7 +714,8 @@
     <MESSAGE value="Angular 2" />
     <MESSAGE value="Angular 3, 4" />
     <MESSAGE value="Angular 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular 4" />
+    <MESSAGE value="\{\{" />
+    <option name="LAST_COMMIT_MESSAGE" value="\{\{" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md">
@@ -1188,8 +1189,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="4224">
-            <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+          <first_editor relative-caret-position="286">
+            <caret line="28" column="54" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
