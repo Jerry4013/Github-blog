@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-14-Angular-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-14-Angular-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-15-Angular-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-15-Angular-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-15-Angular-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="672">
-                <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+              <first_editor relative-caret-position="4224">
+                <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -138,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +153,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +161,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/201905" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PracticeProjects/mall" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -289,14 +287,8 @@
       <workItem from="1560559250385" duration="3910000" />
       <workItem from="1560563608848" duration="509000" />
       <workItem from="1560600881536" duration="15195000" />
-      <workItem from="1560686395977" duration="14646000" />
-    </task>
-    <task id="LOCAL-00057" summary="fix image problem">
-      <created>1555453184489</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1555453184546</updated>
+      <workItem from="1560686395977" duration="15849000" />
+      <workItem from="1560718980318" duration="265000" />
     </task>
     <task id="LOCAL-00058" summary="shortcuts">
       <created>1555693976049</created>
@@ -634,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560629695924</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Angular 4">
+      <created>1560706388445</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1560706388448</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397157000" />
+    <option name="totallyTimeSpent" value="398625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,7 +652,7 @@
     <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.20515575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.20784102" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -690,7 +689,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mail server" />
     <MESSAGE value="PostgreSQL" />
     <MESSAGE value="Java Mail" />
     <MESSAGE value="Java Mail with google account." />
@@ -715,7 +713,8 @@
     <MESSAGE value="Angular 1" />
     <MESSAGE value="Angular 2" />
     <MESSAGE value="Angular 3, 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular 3, 4" />
+    <MESSAGE value="Angular 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-19-shortcuts.md">
@@ -1189,8 +1188,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="672">
-            <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+          <first_editor relative-caret-position="4224">
+            <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
