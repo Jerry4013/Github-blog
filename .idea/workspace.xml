@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +39,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="216">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="336">
+                <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,11 +59,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="805">
-                <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <first_editor relative-caret-position="2520">
+                <caret line="105" selection-start-line="105" selection-end-line="105" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-03-Spring-8.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-04-Spring-9.md" />
         <option value="$PROJECT_DIR$/_site/2019/05/05/mailserver.html" />
         <option value="$PROJECT_DIR$/_posts/2019-05-05-mailserver.md" />
@@ -133,6 +143,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-15-Angular-3.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.adoc" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.md" />
       </list>
     </option>
   </component>
@@ -150,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,8 +180,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,14 +316,9 @@
       <workItem from="1560686395977" duration="15849000" />
       <workItem from="1560718980318" duration="1286000" />
       <workItem from="1560728155656" duration="591000" />
-      <workItem from="1560777894926" duration="1737000" />
-    </task>
-    <task id="LOCAL-00060" summary="ConcurrentHashMap">
-      <created>1555776696284</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1555776696284</updated>
+      <workItem from="1560777894926" duration="2002000" />
+      <workItem from="1560858675207" duration="5127000" />
+      <workItem from="1560867759759" duration="3522000" />
     </task>
     <task id="LOCAL-00061" summary="ConcurrentHashMap">
       <created>1555860655114</created>
@@ -649,11 +656,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560719631060</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Angular 5">
+      <created>1560779892694</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1560779892695</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="401974000" />
+    <option name="totallyTimeSpent" value="410888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,7 +682,7 @@
     <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.1358754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.18743287" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -705,7 +719,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Mail with google account." />
     <MESSAGE value="OTP" />
     <MESSAGE value="Tips" />
     <MESSAGE value="jQuery Ajax" />
@@ -730,29 +743,10 @@
     <MESSAGE value="Angular 4" />
     <MESSAGE value="\{\{" />
     <MESSAGE value="{% endraw %}" />
-    <option name="LAST_COMMIT_MESSAGE" value="{% endraw %}" />
+    <MESSAGE value="Angular 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular 5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-Spring-7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-20-Java-reflection.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="378">
-            <caret line="59" selection-start-line="59" selection-end-line="59" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/2019/05/05/mailserver.html" />
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1191,11 +1185,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.adoc" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="216">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -1204,8 +1199,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="805">
-            <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <first_editor relative-caret-position="336">
+            <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2520">
+            <caret line="105" selection-start-line="105" selection-end-line="105" />
           </first_editor>
           <second_editor />
         </state>
