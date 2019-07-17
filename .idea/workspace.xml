@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-03-Angular-20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-05-Spring.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-06-Angular-22.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-14-Angular-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-14-Angular-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-15-Angular-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-15-Angular-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-16-Angular-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-17-Angular-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-19-Angular-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-19-Angular-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-20-Angular-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-20-Angular-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-21-Angular-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-21-Angular-8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-22-Angular-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-22-Angular-9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-23-Angular-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-23-Angular-10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-24-Angular-11.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-24-Angular-11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-25-Angular-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-25-Angular-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-26-Angular-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-26-Angular-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-27-Angular-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-27-Angular-14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-28-Angular-15.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-28-Angular-15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-29-Angular-16.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-29-Angular-16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-Angular-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-30-Angular-17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-01-Angular-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-01-Angular-18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-02-Angular-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-02-Angular-19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,26 +37,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-06-Angular-22.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="757">
-                <caret line="100" selection-start-line="100" selection-end-line="100" />
-                <folding>
-                  <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-03-Angular-20.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-2304">
-                <caret line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="744">
+                <caret line="179" column="15" selection-start-line="179" selection-start-column="15" selection-end-line="179" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-05-26-git.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-22-Dart(2).md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-21-Dart(1).md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-20-jQuery-AJAX.md" />
@@ -116,7 +81,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-02-Spring-Controller.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-03-Spring-boot-JPA.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-04-git-submodule.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-05-Spring-AOP.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-07-Spring-uniform-exception.md" />
@@ -159,14 +123,16 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-05-Spring.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-03-Angular-20.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-06-Angular-22.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="3664" />
+    <option name="y" value="95" />
+    <option name="width" value="2061" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +150,16 @@
               <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Github-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Github-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,17 +167,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PracticeProjects/mall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algorithm/Leetcode" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -362,14 +336,10 @@
       <workItem from="1562584529779" duration="34000" />
       <workItem from="1562931912607" duration="1172000" />
       <workItem from="1563192653394" duration="4349000" />
-      <workItem from="1563280240254" duration="2658000" />
-    </task>
-    <task id="LOCAL-00071" summary="kickfire">
-      <created>1556558242100</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1556558242101</updated>
+      <workItem from="1563280240254" duration="3284000" />
+      <workItem from="1563286524774" duration="5694000" />
+      <workItem from="1563319918413" duration="5007000" />
+      <workItem from="1563367857848" duration="1896000" />
     </task>
     <task id="LOCAL-00072" summary="jQuery">
       <created>1556558340595</created>
@@ -707,11 +677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562169219604</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Angular 20,21">
+      <created>1563283097752</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1563283097752</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="604712000" />
+    <option name="totallyTimeSpent" value="617935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,7 +703,7 @@
     <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.21804512" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676725" visible="true" weight="0.15840517" />
       <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18252644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -739,11 +716,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297414" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32922825" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" weight="0.26077586" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49916527" weight="0.26026273" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008347" side_tool="true" weight="0.25538793" />
       <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="13" />
@@ -764,7 +741,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Spring validation and AOP beginning" />
     <MESSAGE value="Spring uniform exception and unit tests" />
     <MESSAGE value="JDBC" />
     <MESSAGE value="JDBCTemplate" />
@@ -789,19 +765,10 @@
     <MESSAGE value="Angular 17" />
     <MESSAGE value="Angular 18" />
     <MESSAGE value="Angular 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular 19" />
+    <MESSAGE value="Angular 20,21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular 20,21" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-12-User-Register.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="432">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-OTP-message.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -993,36 +960,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="192">
             <caret line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1752">
-            <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="288">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1152">
-            <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
@@ -1243,16 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-02-Angular-19.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="25" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-23-Angular-10.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1273,6 +1200,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="168">
+            <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-05-Spring.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1286,21 +1223,58 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-03-Angular-20.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-2304">
+          <first_editor relative-caret-position="144">
             <caret line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-04-Angular-21.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-02-Angular-19.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="757">
-            <caret line="100" selection-start-line="100" selection-end-line="100" />
-            <folding>
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="25" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-uniform-exception.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1752">
+            <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-05-Spring-validation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-06-Spring-AOP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="288">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-06-Angular-22.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="744">
+            <caret line="179" column="15" selection-start-line="179" selection-start-column="15" selection-end-line="179" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>

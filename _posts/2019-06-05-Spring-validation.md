@@ -3,7 +3,7 @@ title:  "Spring validation"
 tags: Spring, validation
 ---
 
-### Day 1: Spring boot Web Evolved
+### Day 1: Spring boot Web Evolved (Plan to make a flutter tutorial website)
 
 <br /><br />
 
