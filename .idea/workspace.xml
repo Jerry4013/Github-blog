@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-21-Angular-36.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-22-Angular-37.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-23-Angular-38.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-24-Angular-39.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-20-Angular-35.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-20-Angular-35.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +36,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-21-Angular-36.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-23-Angular-38.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="624">
-                <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+              <first_editor relative-caret-position="600">
+                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,11 +48,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-22-Angular-37.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-Angular-39.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="504">
-                <caret line="87" column="53" lean-forward="true" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+              <first_editor relative-caret-position="528">
+                <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-06-10-SpringBoot-Email.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-10-SpringBoot-Email-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-12-SpringBoot-Email-2.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-15-Angular-4.md" />
@@ -137,6 +134,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-20-Angular-35.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-21-Angular-36.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-22-Angular-37.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-23-Angular-38.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-24-Angular-39.md" />
       </list>
     </option>
   </component>
@@ -394,14 +393,7 @@
       <workItem from="1564682806086" duration="2185000" />
       <workItem from="1564799577437" duration="196000" />
       <workItem from="1564873970498" duration="4453000" />
-      <workItem from="1564920411806" duration="7582000" />
-    </task>
-    <task id="LOCAL-00086" summary="Tips">
-      <created>1557869592365</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1557869592369</updated>
+      <workItem from="1564920411806" duration="17328000" />
     </task>
     <task id="LOCAL-00087" summary="jQuery Ajax">
       <created>1558441282873</created>
@@ -739,11 +731,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564579831182</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="20190721，22">
+      <created>1564937987955</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1564937987956</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="833444000" />
+    <option name="totallyTimeSpent" value="843190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -796,7 +795,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Grid layout" />
     <MESSAGE value="Angular 6" />
     <MESSAGE value="Angular 7" />
     <MESSAGE value="Angular 8, 9" />
@@ -821,20 +819,10 @@
     <MESSAGE value="20190718" />
     <MESSAGE value="20190719" />
     <MESSAGE value="20190720" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190720" />
+    <MESSAGE value="20190721，22" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190721，22" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-11-SpringBoot-Email-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="205">
-            <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-18-Grid-Layout.adoc" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-01-Angular-18.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1303,8 +1291,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-21-Angular-36.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="624">
-            <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+          <first_editor relative-caret-position="600">
+            <caret line="112" selection-start-line="112" selection-end-line="112" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -1313,8 +1301,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-22-Angular-37.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="504">
-            <caret line="87" column="53" lean-forward="true" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+          <first_editor relative-caret-position="240">
+            <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-23-Angular-38.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="600">
+            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-Angular-39.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="528">
+            <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
