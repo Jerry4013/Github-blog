@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-02-Angular-48.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-13-Angular-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-02-Angular-48.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-02-Angular-48.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -306,14 +304,7 @@
       <workItem from="1566216263191" duration="438000" />
       <workItem from="1566254674855" duration="2335000" />
       <workItem from="1566271718014" duration="861000" />
-      <workItem from="1566346289061" duration="6087000" />
-    </task>
-    <task id="LOCAL-00092" summary="Maven">
-      <created>1559162195511</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1559162195517</updated>
+      <workItem from="1566346289061" duration="6548000" />
     </task>
     <task id="LOCAL-00093" summary="configuration file">
       <created>1559490364003</created>
@@ -651,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565926515266</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="0820">
+      <created>1566356136428</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1566356136428</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TodoView">
@@ -680,7 +678,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Angular 15-16" />
     <MESSAGE value="Angular 17" />
     <MESSAGE value="Angular 18" />
     <MESSAGE value="Angular 19" />
@@ -705,7 +702,8 @@
     <MESSAGE value="20190726,27,28" />
     <MESSAGE value="20190729,30" />
     <MESSAGE value="0815" />
-    <option name="LAST_COMMIT_MESSAGE" value="0815" />
+    <MESSAGE value="0820" />
+    <option name="LAST_COMMIT_MESSAGE" value="0820" />
   </component>
   <component name="masterDetails">
     <states>
