@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-03-Database-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -307,14 +307,9 @@
       <workItem from="1566271718014" duration="861000" />
       <workItem from="1566346289061" duration="7165000" />
       <workItem from="1566384271292" duration="5034000" />
-      <workItem from="1566424167825" duration="3638000" />
-    </task>
-    <task id="LOCAL-00094" summary="Spring boot, controller">
-      <created>1559502114839</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1559502114839</updated>
+      <workItem from="1566424167825" duration="5481000" />
+      <workItem from="1566515462097" duration="1819000" />
+      <workItem from="1566601651035" duration="5779000" />
     </task>
     <task id="LOCAL-00095" summary="Spring validation and AOP beginning">
       <created>1559831088465</created>
@@ -652,7 +647,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566356590591</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="0821">
+      <created>1566438834064</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1566438834065</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TodoView">
@@ -681,7 +683,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Angular 17" />
     <MESSAGE value="Angular 18" />
     <MESSAGE value="Angular 19" />
     <MESSAGE value="Angular 20,21" />
@@ -706,7 +707,8 @@
     <MESSAGE value="20190729,30" />
     <MESSAGE value="0815" />
     <MESSAGE value="0820" />
-    <option name="LAST_COMMIT_MESSAGE" value="0820" />
+    <MESSAGE value="0821" />
+    <option name="LAST_COMMIT_MESSAGE" value="0821" />
   </component>
   <component name="masterDetails">
     <states>
