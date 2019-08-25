@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-05-Database-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-06-Database-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/201908/ER1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-03-Database-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-03-Database-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,16 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Ctrl</find>
-      <find>api_key</find>
-      <find>{</find>
-      <find>}}</find>
-      <find>lifecycle</find>
-      <find>reload</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +51,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -309,14 +304,11 @@
       <workItem from="1566384271292" duration="5034000" />
       <workItem from="1566424167825" duration="5481000" />
       <workItem from="1566515462097" duration="1819000" />
-      <workItem from="1566601651035" duration="5779000" />
-    </task>
-    <task id="LOCAL-00095" summary="Spring validation and AOP beginning">
-      <created>1559831088465</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1559831088466</updated>
+      <workItem from="1566601651035" duration="11332000" />
+      <workItem from="1566641008858" duration="10028000" />
+      <workItem from="1566696494929" duration="25000" />
+      <workItem from="1566696608421" duration="1914000" />
+      <workItem from="1566723212593" duration="1699000" />
     </task>
     <task id="LOCAL-00096" summary="Spring uniform exception and unit tests">
       <created>1559915680549</created>
@@ -654,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566438834065</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="0823">
+      <created>1566610669963</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1566610669964</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TodoView">
@@ -683,7 +682,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Angular 18" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Angular 19" />
     <MESSAGE value="Angular 20,21" />
     <MESSAGE value="Angular 22" />
@@ -708,7 +707,8 @@
     <MESSAGE value="0815" />
     <MESSAGE value="0820" />
     <MESSAGE value="0821" />
-    <option name="LAST_COMMIT_MESSAGE" value="0821" />
+    <MESSAGE value="0823" />
+    <option name="LAST_COMMIT_MESSAGE" value="0823" />
   </component>
   <component name="masterDetails">
     <states>
