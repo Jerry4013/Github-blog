@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-05-Database-3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-06-Database-4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/201908/ER1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-07-Database-5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-03-Database-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-03-Database-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-04-Database-2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -308,14 +304,8 @@
       <workItem from="1566641008858" duration="10028000" />
       <workItem from="1566696494929" duration="25000" />
       <workItem from="1566696608421" duration="1914000" />
-      <workItem from="1566723212593" duration="1699000" />
-    </task>
-    <task id="LOCAL-00096" summary="Spring uniform exception and unit tests">
-      <created>1559915680549</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1559915680550</updated>
+      <workItem from="1566723212593" duration="3305000" />
+      <workItem from="1566749451000" duration="8824000" />
     </task>
     <task id="LOCAL-00097" summary="JDBC">
       <created>1559963541222</created>
@@ -653,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566610669964</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="0825">
+      <created>1566725098610</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1566725098611</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TodoView">
@@ -683,7 +680,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Angular 19" />
     <MESSAGE value="Angular 20,21" />
     <MESSAGE value="Angular 22" />
     <MESSAGE value="Angular 23" />
@@ -708,7 +704,8 @@
     <MESSAGE value="0820" />
     <MESSAGE value="0821" />
     <MESSAGE value="0823" />
-    <option name="LAST_COMMIT_MESSAGE" value="0823" />
+    <MESSAGE value="0825" />
+    <option name="LAST_COMMIT_MESSAGE" value="0825" />
   </component>
   <component name="masterDetails">
     <states>
