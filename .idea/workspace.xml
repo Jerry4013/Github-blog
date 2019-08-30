@@ -312,14 +312,9 @@
       <workItem from="1566942256799" duration="2580000" />
       <workItem from="1566967648235" duration="25000" />
       <workItem from="1567031299560" duration="924000" />
-      <workItem from="1567048133118" duration="1387000" />
-    </task>
-    <task id="LOCAL-00098" summary="JDBCTemplate">
-      <created>1560009141266</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1560009141267</updated>
+      <workItem from="1567048133118" duration="1410000" />
+      <workItem from="1567129709789" duration="626000" />
+      <workItem from="1567162415153" duration="1852000" />
     </task>
     <task id="LOCAL-00099" summary="Spring data JPA, a simple example">
       <created>1560106044607</created>
@@ -657,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566822557796</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="0829">
+      <created>1567053703200</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1567053703201</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TodoView">
@@ -687,7 +689,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Angular 22" />
     <MESSAGE value="Angular 23" />
     <MESSAGE value="Angular 24" />
     <MESSAGE value="Angular 25" />
@@ -712,7 +713,8 @@
     <MESSAGE value="0823" />
     <MESSAGE value="0825" />
     <MESSAGE value="0826" />
-    <option name="LAST_COMMIT_MESSAGE" value="0826" />
+    <MESSAGE value="0829" />
+    <option name="LAST_COMMIT_MESSAGE" value="0829" />
   </component>
   <component name="masterDetails">
     <states>
