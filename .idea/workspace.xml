@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec244e1-e9c7-4c30-a3ee-ceddd8ae9f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-09-01-Vim-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-08-07-Database-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-07-Database-5.md" afterDir="false" />
     </list>
@@ -65,7 +66,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -314,14 +315,12 @@
       <workItem from="1567031299560" duration="924000" />
       <workItem from="1567048133118" duration="1410000" />
       <workItem from="1567129709789" duration="626000" />
-      <workItem from="1567162415153" duration="1852000" />
-    </task>
-    <task id="LOCAL-00099" summary="Spring data JPA, a simple example">
-      <created>1560106044607</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1560106044608</updated>
+      <workItem from="1567162415153" duration="1880000" />
+      <workItem from="1567272711034" duration="1482000" />
+      <workItem from="1567336586941" duration="1294000" />
+      <workItem from="1567365956311" duration="1052000" />
+      <workItem from="1567372630795" duration="817000" />
+      <workItem from="1567448878308" duration="54000" />
     </task>
     <task id="LOCAL-00100" summary="Spring data JPA">
       <created>1560187998719</created>
@@ -659,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567053703201</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="0830">
+      <created>1567169489783</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1567169489783</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TodoView">
@@ -689,7 +695,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Angular 23" />
     <MESSAGE value="Angular 24" />
     <MESSAGE value="Angular 25" />
     <MESSAGE value="Angular 26" />
@@ -714,7 +719,8 @@
     <MESSAGE value="0825" />
     <MESSAGE value="0826" />
     <MESSAGE value="0829" />
-    <option name="LAST_COMMIT_MESSAGE" value="0829" />
+    <MESSAGE value="0830" />
+    <option name="LAST_COMMIT_MESSAGE" value="0830" />
   </component>
   <component name="masterDetails">
     <states>
