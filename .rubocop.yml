@@ -4,3 +4,5 @@ AllCops:
 
 Metrics/LineLength:
   Enabled: false
+
+require: rubocop-performance
