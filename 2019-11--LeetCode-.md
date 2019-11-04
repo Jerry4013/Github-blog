@@ -3,7 +3,7 @@ title:  "LeetCode() -- "
 tags: LeetCode
 ---
 
-## P.  (Easy)
+## P.  (Medium)
 
 
 
@@ -25,7 +25,7 @@ tags: LeetCode
 
 ```
 
-## P.  (Easy)
+## P.  (Medium)
 
 
 
@@ -50,7 +50,7 @@ tags: LeetCode
 
 
 
-## P.  (Easy)
+## P.  (Medium)
 
 
 
@@ -74,7 +74,7 @@ tags: LeetCode
 
 
 
-## P.  (Easy)
+## P.  (Medium)
 
 
 ### 我的思路
@@ -102,7 +102,7 @@ tags: LeetCode
 
 ```
 
-## P.  (Easy)
+## P.  (Medium)
 
 
 
