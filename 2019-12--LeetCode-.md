@@ -6,12 +6,9 @@ tags: LeetCode
 ## P.  (Medium)
 
 
-
-### 我的思路
-
+### My Solution
 
 
-### 我的代码
 
 ```java
 
@@ -19,7 +16,7 @@ tags: LeetCode
 
 
 
-### 最优解
+### The Best Solution
 
 ```java
 
@@ -29,11 +26,8 @@ tags: LeetCode
 
 
 
-### 我的思路
 
-
-
-### 我的代码
+### My Solution
 
 ```java
 
@@ -41,7 +35,7 @@ tags: LeetCode
 
 
 
-### 最优解
+### The Best Solution
 
 ```java
 
@@ -54,70 +48,60 @@ tags: LeetCode
 
 
 
-### 我的思路
+### My Solution
 
 
-
-### 我的代码
 
 ```java
 
 ```
 
 
-### 最优解
+### The Best Solution
 
 ```java
 
 ```
-
 
 
 
 ## P.  (Medium)
 
 
-### 我的思路
-
-
-
-### 我的代码
+### My Solution
 
 ```java
 
 ```
 
 
-### 最优解
+### The Best Solution
 
 ```java
 
 ```
 
 
-
-### 答案
-
-```java
-
-```
 
 ## P.  (Medium)
 
 
 
-### 我的思路
-
-
-
-### 最优解
+### My Solution
 
 ```java
 
 ```
 
 
-### 答案：
+
+### The Best Solution
+
+```java
+
+```
+
+
 
 
 
