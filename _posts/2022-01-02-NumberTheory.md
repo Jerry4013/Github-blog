@@ -14,9 +14,9 @@ b = ac, or equivalently, if b/a is an integer. When a divides b we say that a is
 
 Let a, b, and c be integers, where a ≠ 0. Then
 
-1. if a | b and a | c, then a | (b + c);
-2. if a | b, then a | bc for all integers c;
-3. if a | b and b | c, then a | c.
+1. if a \| b and a \| c, then a \| (b + c); 
+2. if a \| b, then a \| bc for all integers c;
+3. if a \| b and b \| c, then a \| c.
 
 ### Corollary 1
 
