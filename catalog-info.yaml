@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Github-blog
+  description: backstage.io
+  annotations:
+    github.com/project-slug: 'Jerry4013/Github-blog'
+spec:
+  type: website
+  lifecycle: production
+  owner: user:guest
